@@ -1,5 +1,6 @@
 {
   "name": "mcp-payroll",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-payroll.git"},
   "version": "1.0.0",
   "description": "MCP server: payroll",
   "type": "module",
